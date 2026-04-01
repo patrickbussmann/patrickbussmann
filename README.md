@@ -8,9 +8,9 @@
 <br/>
 
 <!-- Quick Info Badges -->
+[![Website](https://img.shields.io/badge/patrickbussmann.de-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patrickbussmann.de)
 [![Malt](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.de/profile/patrickbu%C3%9Fmann)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patrickbussmann)
-[![Location](https://img.shields.io/badge/📍_Lower_Saxony,_DE-0078D4?style=for-the-badge)](https://github.com/patrickbussmann)
+[![Location](https://img.shields.io/badge/📍_Lower_Saxony,_DE-0078D4?style=for-the-badge)](https://patrickbussmann.de)
 [![Since](https://img.shields.io/badge/Coding_since-2006-success?style=for-the-badge)](https://github.com/patrickbussmann)
 
 </div>
@@ -141,12 +141,14 @@ const patrick = {
 
 | | |
 |---|---|
-| 🏢 **on-geo GmbH** | Full-Stack Development — current focus |
-| 🏢 **KTM AG** | Microservice architecture in C#/.NET, Azure Cloud, Kubernetes — since 2022 |
+| 🏢 **on-geo GmbH** | Full-Stack Development — since 02/2025 |
+| 🏢 **Bilfinger AG** | Software Development — 06/2025 – 12/2025 |
+| 🏢 **KTM AG** | Microservice architecture in C#/.NET, Azure Cloud, Kubernetes — 01/2022 – 12/2024 |
+| 🏢 **Inwerken AG** | Software Development & IT Consulting — since 12/2023 |
+| 🚀 **HubTime GmbH** | Co-founded — Automated booking system with 24/7 access & PIN generation |
 | 🏢 **Fielmann AG** | Payment systems in C#, React, AWS — 2021 |
 | 🏢 **Delticom AG** | First Amazon Pay Alexa Skill in Germany — 2018/2019 |
 | ⭐ **Malt Rating** | 5/5 stars from 9 reviews, 10 completed projects |
-| ⚡ **Response** | 100% response rate, avg. 2h response time |
 | 🤖 **AI-Enhanced** | Claude, ChatGPT, Copilot & local LLMs for privacy-compliant development |
 
 </div>
@@ -173,7 +175,10 @@ const patrick = {
 
 **Interested in working together? I'd love to hear from you!**
 
+[![Website](https://img.shields.io/badge/patrickbussmann.de-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patrickbussmann.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-bu%C3%9Fmann/)
 [![Malt](https://img.shields.io/badge/Hire_me_on_Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.de/profile/patrickbu%C3%9Fmann)
+[![freelancermap](https://img.shields.io/badge/freelancermap-2B6CB0?style=for-the-badge&logoColor=white)](https://www.freelancermap.de/profil/patrick-bussmann-85662)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.bussmann@bussmann-it.de)
 
 <br/>
