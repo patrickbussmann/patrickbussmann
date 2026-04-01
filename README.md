@@ -9,6 +9,7 @@
 
 <!-- Quick Info Badges -->
 [![Website](https://img.shields.io/badge/patrickbussmann.de-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patrickbussmann.de)
+[![Bussmann IT](https://img.shields.io/badge/bussmann.it-1a1a25?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bussmann.it)
 [![Malt](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.de/profile/patrickbu%C3%9Fmann)
 [![Location](https://img.shields.io/badge/📍_Lower_Saxony,_DE-0078D4?style=for-the-badge)](https://patrickbussmann.de)
 [![Since](https://img.shields.io/badge/Coding_since-2006-success?style=for-the-badge)](https://github.com/patrickbussmann)
