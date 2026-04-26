@@ -40,6 +40,18 @@ const patrick = {
 };
 ```
 
+<div align="center">
+
+### 🚀 Currently
+
+🏢 **CEO & Founder** @ HubTime GmbH — *since 02/2024*  
+🏢 **Managing Director** @ D&P IT UG — *since 06/2016*  
+🏢 **Owner** @ Bußmann IT — *since 07/2015*
+
+**Industries:** Energy · Retail · Finance · Education · Public Sector · Startups
+
+</div>
+
 ---
 
 ## 🤖 AI-Enhanced Development
@@ -52,9 +64,18 @@ const patrick = {
 <br/>
 
 [![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/api)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com)
+[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 [![Ollama](https://img.shields.io/badge/Ollama_(Local_LLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
+
+<br/>
+
+![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-6A5ACD?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -104,6 +125,17 @@ const patrick = {
 
 </details>
 
+<details open>
+<summary><b>Testing</b></summary>
+<br/>
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
+
+</details>
+
 <details>
 <summary><b>Tools & IDEs</b></summary>
 <br/>
@@ -142,8 +174,8 @@ const patrick = {
 
 | | |
 |---|---|
-| 🏢 **on-geo GmbH** | Full-Stack Development — since 02/2025 |
-| 🏢 **Bilfinger AG** | Software Development — 06/2025 – 12/2025 |
+| 🏢 **on-geo GmbH** | Full-Stack Development — 02/2025 – 04/2026 |
+| 🏢 **Bilfinger SE** | Modernization of the internal time-tracking software for employees — replacing the legacy application, introducing TypeScript on the frontend and building / extending the test suite. Backend with Node.js, Express and TypeORM. — 06/2025 – 12/2025 |
 | 🏢 **KTM AG** | Microservice architecture in C#/.NET, Azure Cloud, Kubernetes — 01/2022 – 12/2024 |
 | 🏢 **Inwerken AG** | Software Development & IT Consulting — since 12/2023 |
 | 🚀 **HubTime GmbH** | Co-founded — Automated booking system with 24/7 access & PIN generation |
