@@ -175,7 +175,7 @@ const patrick = {
 | | |
 |---|---|
 | 🏢 **on-geo GmbH** | Full-Stack Development — 02/2025 – 04/2026 |
-| 🏢 **Bilfinger SE** | Modernization of the internal time-tracking software for employees — replacing the legacy application, introducing TypeScript on the frontend and building / extending the test suite. Backend with Node.js, Express and TypeORM. — 06/2025 – 12/2025 |
+| 🏢 **Bilfinger SE** | Modernization of the internal time-tracking software for employees — replacing the legacy application with React + TypeScript on the frontend and building / extending the test suite. Backend with Node.js, Express and TypeORM. — 06/2025 – 12/2025 |
 | 🏢 **KTM AG** | Microservice architecture in C#/.NET, Azure Cloud, Kubernetes — 01/2022 – 12/2024 |
 | 🏢 **Inwerken AG** | Software Development & IT Consulting — since 12/2023 |
 | 🚀 **HubTime GmbH** | Co-founded — Automated booking system with 24/7 access & PIN generation |
